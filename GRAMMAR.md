@@ -14,10 +14,11 @@ Each case is described by an image extracted from an existing Chords Charts, and
 | Diminished chord                            | ![](./grammar-images/chord-dim.png)           | `Bo`           |                                                          |
 | 9th chord                                   | ![](./grammar-images/chord-9th.png)           | `G7`           |                                                          |
 | Bar with 2 chords                           | ![](./grammar-images/bar-2-chords.png)        | `Am7/D7`       |                                                          |
-| Bar with 2 chords<br>3 beats then 1         | ![](./grammar-images/bar-2-chords-3-1.png)    | `Am7/D7`       | [Am I blue](./samples/Am I blue.png)                     |
+| Bar with 2 chords<br>3 beats then 1         | ![](./grammar-images/bar-2-chords-3-1.png)    | `G7/-/-/Gm7`   | [Am I blue](./samples/Am I blue.png)                     |
 | Bar with 3 chords                           | ![](./grammar-images/bar-3-chords.png)        | `Gm7/-/Eb7/D7` |                                                          |
 | Bar with 4 chords                           | ![](./grammar-images/bar-4-chords.png)        | `Ab/C7/Fm/Eb6` | [And the angels sing](./samples/And the angels sing.png) |
 | Bar repeat<br>following a bar with 1 chord  | ![](./grammar-images/bar-repeat-1-chord.png)  | `-`            | [All of me](./samples/All of me.png)                     |
 | Bar repeat<br>following a bar with 2 chords | ![](./grammar-images/bar-repeat-2-chords.png) | `%`            | [And the angels sing](./samples/And the angels sing.png) |
 | Bar repeat<br>following 2 bars              | ![](./grammar-images/bar-repeat-2-bars.png)   |                |                                                          |
 | Bar with chord descend                      | ![](./grammar-images/bar-descend.png)         | `F↘`           | [Always](./samples/Always.png)                           |
+| Break of 1 bar                              | ![](./grammar-images/break-1-bar.png)         | `[G7]`         | [Cocktails for two](./samples/Cocktails for two.png)     |
