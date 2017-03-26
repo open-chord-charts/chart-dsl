@@ -12,7 +12,7 @@ Each case is described by an image extracted from an existing Chords Charts, and
 | 7th chord                                   | ![](./grammar-images/chord-7th.png)           | `E7`           |                                                          |
 | 7th minor chord                             | ![](./grammar-images/chord-7th-minor.png)     | `D7m`          |                                                          |
 | Diminished chord                            | ![](./grammar-images/chord-dim.png)           | `Bo`           |                                                          |
-| 9th chord                                   | ![](./grammar-images/chord-9th.png)           | `G7`           |                                                          |
+| 9th chord                                   | ![](./grammar-images/chord-9th.png)           | `G9`           |                                                          |
 | Bar with 2 chords                           | ![](./grammar-images/bar-2-chords.png)        | `Am7/D7`       |                                                          |
 | Bar with 2 chords<br>3 beats then 1         | ![](./grammar-images/bar-2-chords-3-1.png)    | `G7/-/-/Gm7`   | [Am I blue](./samples/Am I blue.png)                     |
 | Bar with 3 chords                           | ![](./grammar-images/bar-3-chords.png)        | `Gm7/-/Eb7/D7` |                                                          |
