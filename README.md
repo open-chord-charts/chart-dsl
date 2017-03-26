@@ -27,5 +27,5 @@ F Fm C A7 Dm7b5 G7 C -
 ```
 
 See also:
-- [sample charts](./samples/charts) directory
+- [sample charts](./samples) directory
 - [`GRAMMAR.md`](./GRAMMAR.md)
