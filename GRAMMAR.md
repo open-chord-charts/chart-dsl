@@ -6,7 +6,11 @@ Each case is described by an image extracted from an existing Chords Charts, and
 
 ## Chords
 
-Inspired from [Chord names and symbols](https://en.wikipedia.org/wiki/Chord_names_and_symbols_(popular_music)) Wikipedia page.
+Inspired from:
+- [Chord](https://en.wikipedia.org/wiki/Chord_(music)) Wikipedia page.
+- [Chord names and symbols](https://en.wikipedia.org/wiki/Chord_names_and_symbols_(popular_music)) Wikipedia page.
+- [Anthologie des Grilles de Jazz](https://www.amazon.fr/Anthologie-Grilles-Jazz-morceaux-Coltrane/dp/B00P2VZS0Y) (by [Philippe Baudoin](http://www.baudoinjazz.com/))
+- [Chord Name Finder](http://www.sengpielaudio.com/ChordNameFinder.htm)
 
 | Name                | Image                                                | Plain text | Occurs in sample                         |
 | ------------------- | ---------------------------------------------------- | ---------- | ---------------------------------------- |
